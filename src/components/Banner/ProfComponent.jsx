@@ -175,11 +175,11 @@ const Social = styled.div`
       width: 2.3rem;
       height: 2rem;
       clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
-      background:#021C76;
+      background:#0006;
       position: relative;
       transition: transform 400ms ease-in-out;
       :hover {
-        transform: rotate(360deg);
+        transform: rotate(260deg);
       }
     }
 
