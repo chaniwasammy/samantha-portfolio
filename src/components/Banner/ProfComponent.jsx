@@ -23,7 +23,7 @@ const ProfComponent = () => {
         <Profile>
         <div className="bees">
           <button>Get in touch</button>
-          <a  href="https://www.canva.com/design/DAF7XvnmFNA/dcO21LAejl0-KCLcDWV4RQ/edit?utm_content=DAF7XvnmFNA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+          <a  href="https://www.canva.com/design/DAF8GsW2PWQ/PZIWxnlKPK8ZNNt_-QgZmg/edit?utm_content=DAF8GsW2PWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
             <button>Dowload CV</button></a>
           </div>
           <Social>
@@ -108,9 +108,6 @@ const Texts = styled.div`
     padding-bottom: 1.2rem;
     text-transform: capitalize;
   }
- 
-
-
 `;
 
 const Profile = styled.div`
@@ -144,23 +141,15 @@ width: 100%;
     }
     @media (max-width: 840px) {
     width: 10%;
-    
-    
   }
     @media (max-width: 768px) {
-    width: 55%;
-    
-    
+    width: 55%; 
   }
   }
   .bees{
     display: flex;
     gap: 5%;
-    
-
   }
-  
-
 `;
 const Social = styled.div`
   margin-top: 3rem;
