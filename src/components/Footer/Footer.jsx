@@ -236,7 +236,7 @@ const Profile = styled.div`
       a {
         text-decoration: none;
         color: #8b597b;
-        :hover {
+        &:hover {
           color: cyan ;
           color: cyan;
         }
