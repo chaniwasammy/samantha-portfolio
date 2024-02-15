@@ -63,11 +63,11 @@ const Container = styled.div`
         }
     }
 
-    :hover > img{
+    &:hover > img{
         transform: scale(1.3);
     }
 
-    :hover > .disc{
+    &:hover > .disc{
         bottom: 0;
     }
      .disc{

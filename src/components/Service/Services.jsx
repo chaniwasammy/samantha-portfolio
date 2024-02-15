@@ -111,7 +111,7 @@ img{
   position:absolute;
   margin-left:600px;
   filter: drop-shadow(0px 10px 10px  white);
-    :hover {
+    &:hover {
       filter: drop-shadow(0px 10px 10px cyan);
     }
     @media (max-width: 840px) {

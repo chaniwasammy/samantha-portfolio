@@ -193,7 +193,7 @@ const Form = styled.div`
       border-radius: 5px;
       filter: drop-shadow(0px 4px 5px #DAA07D);
       cursor: pointer;
-      :hover {
+      &:hover {
         filter: drop-shadow(0px 6px 9px #f0bd9c);
       }
     }
@@ -264,7 +264,7 @@ const Profile = styled.div`
         margin-right: 0.5rem;
         border-radius: 50px;
 
-        :hover {
+        &:hover {
           background-color: #DAA07D;
         }
 
