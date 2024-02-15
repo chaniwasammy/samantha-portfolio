@@ -10,12 +10,12 @@ let data = [
         disc : "I have crafted a portfolio website showcasing the work and skills of a talented Ui/UX designer."
     },
     {
-        img : "https://my-portifolio-jade.vercel.app/",
-        disc : "This is a portfolio of my own!"
+        img : "./images/myport.png",
+        disc : "This is my portfolio that l developed"
     },
     {
         img : "./images/uncommon.png",
-        disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!"
+        disc : "it is a none governmental organisation that teaches the vulnerable young adults tech skills and to help them get job opportunities "
     },
     {
         img : "./images/dylan.png",

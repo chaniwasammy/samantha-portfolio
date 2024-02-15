@@ -136,7 +136,7 @@ width: 100%;
     color: #fff;
     font-weight: 500;
     filter: drop-shadow(0px 10px 10px  white);
-    :hover {
+    &:hover {
       filter: drop-shadow(0px 10px 10px cyan);
     }
     @media (max-width: 840px) {
@@ -157,7 +157,7 @@ const Social = styled.div`
   align-items: center;
   gap: 1rem;
   filter: drop-shadow(0px 10px 10px  white);
-  :hover {
+  &:hover {
       filter: drop-shadow(0px 10px 10px cyan);
     }
   p {
@@ -178,7 +178,7 @@ const Social = styled.div`
       background:#021C76;
       position: relative;
       transition: transform 400ms ease-in-out;
-      :hover {
+      &:hover {
         transform: rotate(360deg);
       }
     }
