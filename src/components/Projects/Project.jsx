@@ -2,20 +2,18 @@ import React from 'react'
 import styled from 'styled-components';
 
 const Project = (props) => {
-    const { img, disc } = props.item;
+    const { img, disc,link } = props.item;
   return (
     <Container className='project'>
         <img src={img} alt="project" />
         
         <div className="disc">
+            
             <h1>Description</h1>
             <p>{disc}
-            <a href="https://unco-sammy.vercel.app/Home">demo</a>
+            <a href={link} target= '_blank'>demo</a>
             </p>
-            
-            <p>{disc}
-            <a href="https://samantha-portfolio-ix81.vercel.app/">demo</a>
-            </p>
+
         </div>
     
     </Container>
