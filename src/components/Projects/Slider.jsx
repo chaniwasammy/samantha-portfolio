@@ -8,7 +8,7 @@ let data = [
     {
         img : "./images/dylan.png",
         disc : "I have crafted a portfolio website showcasing the work and skills of a talented Ui/UX designer.",
-        link:""
+        link:"https://dylan-argh.vercel.app/"
     },
     {
         img : "./images/myport.png",
@@ -21,9 +21,9 @@ let data = [
         link:"https://unco-sammy.vercel.app/"
     },
     {
-        img : "./images/dylan.png",
-        disc : "Lorem ipsum dolor sit amet consectetur adipisicing elit.Eveniet iure rerum obcaecati et laborum earum!",
-        link: ""
+        img : "./images/Screenshot 2024-02-22 at 08.25.30.png",
+        disc : "This is kurira website l developed",
+        link: "https://kurira-ofid.vercel.app/"
     },
    
 
