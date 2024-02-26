@@ -11,7 +11,7 @@
 
 :root{
   --lighter: linear-gradient(159deg, rgb(2, 28, 118) 100%, rgb(1, 27, 117) 100%);
-  ---background: #8b597b;
+  ---background: #2d3250;
 }
 
 body{
@@ -23,7 +23,7 @@ body{
 }
 
 .green {
-  color:black;}
+  color:white;}
 
 .slick-list, .slick-slider, .slick-track{
   padding: 1.5rem 0;
@@ -66,13 +66,13 @@ body{
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background:#ffdec7;
+  background:#151D2F;
   border-radius: 50px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background:#ffdec7;
+  background:#151D2F;
 }
 
 @keyframes header {

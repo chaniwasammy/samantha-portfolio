@@ -51,7 +51,7 @@ const Footer = () => {
             <h1>Address:</h1>
           </Slide>
           <Slide direction="left">
-            <p>5747 Emganwini Bulawayo, Zimbambwe(ZA)</p>
+            <p>5747 Emganwini Bulawayo, Zimbambwe</p>
           </Slide>
         </div>
         <div className="links">
@@ -132,7 +132,7 @@ const Container = styled.div`
   width: 100%;
   display: flex;
   justify-content: space-between;
-  background-color:#efa3a0;
+  background-color:#2B304E;
   @media (max-width: 840px) {
     width: 100%;
   }
@@ -147,41 +147,47 @@ const Form = styled.div`
   h1 {
     font-size: 1.3rem;
     padding-bottom: 0.7rem;
+    color:white;
   }
 
   form {
-    background-color: #191923;
+    background-color: #151D2F;
     padding: 0.8rem;
     border-radius: 5px;
     margin-left:90px;
     @media (max-width: 840px) {
     margin-left:10px;
+    color:white;
   }
+
     .name,
     .email,
     .message {
       display: flex;
-      border: 1px solid gray;
+      border: 1px solid white;
       margin-bottom: 0.5rem;
+      color:white;
       input,
       textarea {
         width: 100%;
         border: none;
         outline: none;
-        color: #fff;
+        color: #ffffff;
         background-color: transparent;
         padding: 1rem 0.5rem;
       }
       span {
-        background-color: #3e3e3e;
+        background-color: #151D2F;
         width: 3rem;
         display: flex;
         align-items: center;
         justify-content: center;
+        color:white;
       }
       .messageIcon {
         align-items: flex-start;
         padding-top: 0.5rem;
+        color:white;
       }
     }
 
@@ -190,6 +196,7 @@ const Form = styled.div`
       height: 1.8rem;
       background-color: #DAA07D;
       border: none;
+      color:white;
       border-radius: 5px;
       filter: drop-shadow(0px 4px 5px #DAA07D);
       cursor: pointer;
@@ -235,10 +242,10 @@ const Profile = styled.div`
       gap: 0.5rem;
       a {
         text-decoration: none;
-        color: #8b597b;
+        color: white;
         &:hover {
-          color: cyan ;
-          color: cyan;
+          
+          color: white;
         }
       }
     }
@@ -270,7 +277,7 @@ const Profile = styled.div`
 
         a {
           margin-top: 0.2rem;
-          color: #fff;
+          color: #ffffff;
         }
       }
     }

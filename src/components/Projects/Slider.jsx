@@ -11,9 +11,9 @@ let data = [
         link:"https://dylan-argh.vercel.app/"
     },
     {
-        img : "./images/myport.png",
-        disc : "This is my portfolio that l developed",
-        link:"https://samantha-portfolio-kappa.vercel.app/"
+        img : "./images/Screenshot 2024-02-26 at 07.56.46.png",
+        disc : "We have customised containers that meets your business needs",
+        link:"https://my-app-tau-silk.vercel.app/"
     },
     {
         img : "./images/uncommon.png",

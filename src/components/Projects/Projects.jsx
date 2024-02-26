@@ -31,7 +31,7 @@ const Container = styled.div`
     padding: 3rem 0;
     text-align: center;
     position: relative;
-  background:#efa3a0;
+  background:#2B304E;
 
     @media(max-width: 840px){
         width: 90%;
@@ -60,6 +60,7 @@ const Container = styled.div`
         margin: 0 auto;
         padding: 1rem 0;
         font-size: 0.9rem;
+        line-height:20px;
         @media(max-width : 500px){
             width: 90%;
         }

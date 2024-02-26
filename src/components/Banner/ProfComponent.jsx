@@ -131,14 +131,12 @@ width: 100%;
     margin-top: 3rem;
    
     cursor: pointer;
-    background:#021C76;
+    background:#ECAA75;
     border: none;
     color: #fff;
     font-weight: 500;
     filter: drop-shadow(0px 10px 10px  white);
-    &:hover {
-      filter: drop-shadow(0px 10px 10px cyan);
-    }
+  
     @media (max-width: 840px) {
     width: 10%;
   }
@@ -157,9 +155,7 @@ const Social = styled.div`
   align-items: center;
   gap: 1rem;
   filter: drop-shadow(0px 10px 10px  white);
-  &:hover {
-      filter: drop-shadow(0px 10px 10px cyan);
-    }
+ 
   p {
     font-size: 0.9rem;
     @media (max-width: 690px) {
@@ -175,7 +171,7 @@ const Social = styled.div`
       width: 2.3rem;
       height: 2rem;
       clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
-      background:#021C76;
+      background:#ECAA75;
       position: relative;
       transition: transform 400ms ease-in-out;
       &:hover {
