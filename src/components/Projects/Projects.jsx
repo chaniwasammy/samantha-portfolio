@@ -13,6 +13,7 @@ const Projects = () => {
                  l utilized JavaScript libraries and framework to enhance the functionality and
                  user experience,l implemented responsive and mobile-friend designs using CSS meadia
                  queries.
+                
 </p>
         </Zoom>
         <Slide>

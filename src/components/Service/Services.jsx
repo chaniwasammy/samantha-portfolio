@@ -25,6 +25,9 @@ const Services = () => {
             l have managed to do some passion projects which are responsive
             and user freindly l was using HTML,CSS,JavaScript,React libraries.
             And am willing to learn new languages.
+            I had a one-month work experience at THE OASIS ‘CREATOR’S HUB’ where
+             l was doing the project for Asana with the help of  my colleagues it
+              was a great opportunity for me causel got to work with professionals.  
         </p>
         <img src="./images/WhatsApp_Image_2024-01-28_at_22.01.07-removebg-preview.png"/>
         </Paragraph>
@@ -61,7 +64,7 @@ const Container = styled.div`
   }
 
  h4{
-  font-size: 50px;
+  font-size: 45px;
   margin-top:100px;
   @media (max-width: 840px) {
     font-size:20px;
@@ -90,16 +93,16 @@ display: flex;
     display:grid;
   }
 p{
-  padding-top:100px;
+  padding-top:60px;
   width:60%;
-  font-size:25px;
+  font-size:17px;
   line-height:42px;
   @media (max-width: 840px) {
          width:100%;
          font-size:18px;
          padding-top:30px;
   }
-  @media (max-width: 768px) {
+  @media (max-width: 1200px) {
          width:40%;
          font-size:18px;
          padding-top:70px;
