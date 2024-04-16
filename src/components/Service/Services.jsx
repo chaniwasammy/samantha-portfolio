@@ -27,7 +27,7 @@ const Services = () => {
             And am willing to learn new languages.
             I had a one-month work experience at THE OASIS ‘CREATOR’S HUB’ where
              l was doing the project for Asana with the help of  my colleagues it
-              was a great opportunity for me causel got to work with professionals.  
+              was a great opportunity for me cause l got to work with professionals.  
         </p>
         <img src="./images/WhatsApp_Image_2024-01-28_at_22.01.07-removebg-preview.png"/>
         </Paragraph>
